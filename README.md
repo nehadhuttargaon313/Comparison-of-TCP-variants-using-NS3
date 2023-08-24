@@ -1,5 +1,5 @@
 # Comparison-of-TCP-variants-using-NS3
-     Analyse and compare TCP Hybla, TCP Westwood+, and TCP YeAH-TCP performance. Select a Dumbbell topology 
+Analyse and compare TCP Hybla, TCP Westwood+, and TCP YeAH-TCP performance. Select a Dumbbell topology 
 with two routers R1 and R2 connected by a (10 Mbps, 50 ms) wired link. Each of the routers is connected to 3 
 hosts, i.e. H1, H2, H3 (i.e. senders) are connected to R1, and H4, H5, H6 (i.e. receivers) are connected to R2. The 
 hosts are attached with (100 Mbps, 20 ms) links. Both the routers use drop-tail queues with queue size set 
